@@ -18,4 +18,3 @@ RUN apt-get update -y && apt-get install -y \
 
 WORKDIR /workspace
 
-CMD ["pdflatex"]
